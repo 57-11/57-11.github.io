@@ -1,0 +1,7 @@
+site_name: 57-11的课程个人Blog
+site_url: https://57-11.github.io/
+theme:
+  name: material
+nav:
+  - 博客首页: index.md
+  - 第一篇实践博客: article1.md
